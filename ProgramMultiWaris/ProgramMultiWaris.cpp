@@ -5,4 +5,5 @@ class orang {
 public:
 	int umur;
 
+
 };

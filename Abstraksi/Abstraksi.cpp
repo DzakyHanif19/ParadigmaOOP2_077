@@ -21,6 +21,7 @@ public:
 };
 
 int main() {
+
 	Abstraksiclass ak;
 	ak.setXY("Yogyakarta", "Kampus");
 	ak.display();
